@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/button"
         style="@style/Widget.AppCompat.Button.Borderless"
-        android:background="@null"
+        android:background="@drawable/button_border"
         android:shadowColor="@android:color/white"
         android:textColor="@android:color/white"
         android:text="@string/button_new"
