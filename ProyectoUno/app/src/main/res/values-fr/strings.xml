@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectoUno</string>
+    <string name="main_text">Bievenue</string>
+    <string name="button_new">Entrer</string>
+</resources>
